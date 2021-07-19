@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mappac8fc532": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
